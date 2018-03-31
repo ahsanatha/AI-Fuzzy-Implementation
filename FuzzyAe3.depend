@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1522469022 source:d:\labai\fuzzy_implementation\fuzzyae3\fuzzyrules.cpp
+	"FuzzyRules.h"
+
+1522469154 d:\labai\fuzzy_implementation\fuzzyae3\fuzzyrules.h
+	<iostream>
+	<string.h>
+
+1522469504 source:d:\labai\fuzzy_implementation\fuzzyae3\main.cpp
+	<iostream>
+	"FuzzyRules.h"
+
