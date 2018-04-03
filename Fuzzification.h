@@ -22,6 +22,9 @@ struct Wawancara {
     elm sedang;
     elm tinggi;
 };
+void TTCrisptoFuzzy(elm TT[], int C);
+void WWCrisptoFuzzy(elm WW[], int C);
+
 
 #endif // FUZZIFICATION_H_INCLUDED
 

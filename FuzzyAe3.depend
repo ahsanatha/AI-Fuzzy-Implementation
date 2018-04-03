@@ -2,11 +2,26 @@
 1522469022 source:d:\labai\fuzzy_implementation\fuzzyae3\fuzzyrules.cpp
 	"FuzzyRules.h"
 
-1522469154 d:\labai\fuzzy_implementation\fuzzyae3\fuzzyrules.h
+1522675414 d:\labai\fuzzy_implementation\fuzzyae3\fuzzyrules.h
 	<iostream>
 	<string.h>
 
-1522469504 source:d:\labai\fuzzy_implementation\fuzzyae3\main.cpp
+1522774680 source:d:\labai\fuzzy_implementation\fuzzyae3\main.cpp
 	<iostream>
 	"FuzzyRules.h"
+	"Fuzzification.h"
+
+1522774654 source:d:\labai\fuzzy_implementation\fuzzyae3\fuzzification.cpp
+	"Fuzzification.h"
+
+1522773660 d:\labai\fuzzy_implementation\fuzzyae3\fuzzification.h
+	<iostream>
+	<string.h>
+
+1522674787 source:d:\labai\fuzzy_implementation\fuzzyae3\interferance.cpp
+	"Interferance.h"
+
+1522675410 d:\labai\fuzzy_implementation\fuzzyae3\interferance.h
+	"FuzzyRules.h"
+	"Fuzzification.h"
 
